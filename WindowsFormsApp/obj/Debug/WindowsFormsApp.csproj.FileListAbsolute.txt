@@ -1,0 +1,11 @@
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\Database1.mdf
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\Database1_log.ldf
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\rrafa\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
